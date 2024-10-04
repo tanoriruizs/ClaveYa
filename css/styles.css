@@ -1,0 +1,66 @@
+html, body {
+    width: 312px;
+    height: 384px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: white; 
+
+  }
+
+  .container-header{
+    text-align: center;
+    border-bottom: 1.5px solid #e5e5e5;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .container-header h1{
+    margin-bottom: 0px;
+  }
+
+  .uk-button{
+    text-transform: none !important;
+  }
+
+  .uk-button-style{
+    position: fixed;
+    top: 24px;
+    right: 30px;
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 50% !important;
+    line-height: 0 !important;
+    padding: 0 !important;
+  }
+
+  .popup-container {
+    border: none;    padding: 25px;
+    box-sizing: border-box;
+    height: 100%;
+  }
+
+  .popup-container h1{
+    margin-bottom: 0px;
+  }
+
+  .popup-container p{
+    margin-top: 0px;
+  }
+
+
+footer{
+    text-align: center;
+    border-top: 1.5px solid #e5e5e5;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
+
+footer p{
+    margin-bottom: 0px;
+}
+

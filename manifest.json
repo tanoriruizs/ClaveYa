@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "ClaveYa - Tu Generador de Contraseñas Seguras",
+    "version": "1.0",
+    "description": "Crea contraseñas seguras y únicas en segundos con ClaveYa. Protege tus cuentas de forma sencilla y rápida.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["storage"]
+  }
+  
