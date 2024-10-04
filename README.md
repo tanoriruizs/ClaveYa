@@ -37,6 +37,6 @@ ClaveYa es una extensión de Google Chrome diseñada para generar contraseñas s
 
 ## Capturas de Pantalla
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/tanoriruizs/ClaveYa/blob/main/img/Screenshot%202024-10-03%20184935.png?raw=true))
+![Captura de Pantalla](img/screenshot.png)
 
 
